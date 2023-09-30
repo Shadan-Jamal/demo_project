@@ -1,0 +1,49 @@
+.font
+{
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    color:darkgreen;
+}
+ .border
+ {
+    border: 5px outset greenyellow;
+    border-style:groove;
+ }
+.background
+{
+    background: url(nv.png) no-repeat;
+    background-size: 400px;
+    image-rendering:crisp-edges;
+}
+.margin{
+    margin-top:20px;
+    margin-right:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+}
+.hw
+{
+    height:200px;
+    width:300px;
+}
+.floatleft
+{
+    float:left;
+}
+.text{
+    padding-top: 50px;
+    text-align:center;
+    text-shadow:50px 30px 30px #484848;
+    text-transform:uppercase;    
+}
+.div
+{
+    padding: 20px;
+    width: 20%;
+    min-height: auto;
+    margin-right: auto;
+   border: 5px saddlebrown;
+   color: black;
+}
